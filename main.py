@@ -101,5 +101,5 @@ except FileNotFoundError: #chatGPT told me thats important
 #Why not?
 #I program in flask
 #i know how to program (ig)
-#i beatiful (in india)
+#i beatiful (ig)
 #i prefer kasane teto instead of hatsune miku
